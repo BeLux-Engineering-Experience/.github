@@ -7,9 +7,3 @@
 
 📈 **Latest Metrics (Updated Daily)**
 ![Organization Leaderboard](https://raw.githubusercontent.com/BeLux-OpenSouce-Clinic/org-metrics/main/org-leaderboard.svg)
-
----
-
-## 🏆 Top Contributors
-| Rank | Contributor | ✅ PRs Merged | 🐞 Issues Closed |
-|------|------------|--------------|----------------|
