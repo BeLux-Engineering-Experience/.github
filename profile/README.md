@@ -1,4 +1,4 @@
-# 🚀 Welcome to BeLux-OpenSouce-Clinic!
+# 🚀 Welcome to BeLux OpenSouce Clinic!
 
 ## 📊 Organization-Wide Metrics & Leaderboard
 
