@@ -4,7 +4,7 @@
   <span style="display: inline-block; width: 30%; border-top: 2px solid #1bbfed; vertical-align: middle;"></span>
 </p>
 
-# Welcome to the BeLux Engineering Experience 🚀
+<h1 align="center">Welcome to the BeLux Engineering Experience 🚀</h1>
 
 <p align="center">
   <a href="https://github.com/BeLux-Engineering-Experience/home/tree/main" target="_blank">
