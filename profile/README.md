@@ -1,7 +1,7 @@
 <p align="center">
   <span style="display: inline-block; width: 30%; border-top: 2px solid #1bbfed; vertical-align: middle;"></span>
   <img src="logo/innersource_logo4.png" alt="Innersource Logo" style="width:30%; vertical-align: middle; margin: 0 10px;" />
-  <span style="display: inline-block; width: 30%; border-top: 2px solid #1bbfed; vertical-align: middle;"></span>
+  <span style="display: inline-block; width: 31%; border-top: 2px solid #1bbfed; vertical-align: middle;"></span>
 </p>
 
 <h1 align="center">Welcome to the BeLux Engineering Experience 🚀</h1>
